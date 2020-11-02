@@ -1,0 +1,2 @@
+# fightcade-detectors
+Fightcade detectors
