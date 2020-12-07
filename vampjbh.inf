@@ -1,0 +1,17 @@
+start=Start,CpsRamFF,eq,0x9408,153,8
+player1=P1 Win,CpsRamFF,gts,0x8B30,0,8
+player2=P2 Win,CpsRamFF,gts,0x8730,0,8
+char1=P1 Char,CpsRamFF,char,0x8728,0,8
+char2=P2 Char,CpsRamFF,char,0x8B28,0,8
+char=1,Demitri
+char=2,Gallon
+char=3,Victor
+char=4,Zabel
+char=5,Morrigan
+char=6,Anakaris
+char=7,Felicia
+char=8,Bishamon
+char=9,Aulbath
+char=10,Sasquatch
+char=11,Phobos
+char=12,Pyron
