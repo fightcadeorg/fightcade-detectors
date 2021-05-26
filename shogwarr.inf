@@ -1,0 +1,17 @@
+start=Start,raw,eq,0x103296,99,8
+player1=P1 Win,raw,eq,0x10641d,2,8
+player2=P2 Win,raw,eq,0x10652d,2,8
+char1=P1 Char,raw,char,0x1063f5,0,8
+char2=P2 Char,raw,char,0x106505,0,8
+char=0,Ninja
+char=1,Kappa
+char=2,Shogun
+char=3,Geisya
+char=4,Samurai
+char=5,Sumo
+char=6,Kabuki
+char=7,Sabu
+char=8,Oni
+char=9,Tengu
+char=10,Benkei
+char=11,Goemon
