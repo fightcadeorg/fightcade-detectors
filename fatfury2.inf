@@ -1,3 +1,17 @@
 start=Start,68K RAM,eq,0x092b,144,8
 player1=P1 Win,68K RAM,eq,0x0059,2,8
 player2=P2 Win,68K RAM,eq,0x005b,2,8
+char1=P1Char,68K RAM,char,0x419a,0,8
+char2=P2Char,68K RAM,char,0x419c,0,8
+char=1,Terry
+char=2,Andy
+char=3,Joe
+char=4,Big Bear
+char=5,Jubei
+char=6,Cheng
+char=7,Kim
+char=8,Mai
+char=9,Billy
+char=10,Axel
+char=11,Laurence
+char=12,Krauser
