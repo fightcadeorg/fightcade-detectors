@@ -1,3 +1,14 @@
 start=Start,raw,eq,0x200f31,98,8
 player1=P1 Win,raw,gts,0x20103e,0,8
 player2=P2 Win,raw,gts,0x201120,0,8
+char1=P1Char,raw,char,0x200f60,0,8
+char2=P2Char,raw,char,0x201042,0,8
+char=0,Nic-San (aka Huang Fei Hong)
+char=1,Jean Paul (Ninja)
+char=2,Stevareno (Gold Men)
+char=3,Drew (Clown)
+char=4,Dougster (American Quarterback)
+char=5,Fang (English Werewolf)
+char=6,Burnie (Fire)
+char=7,Melanie (aka Mulan)
+char=8,Claus
