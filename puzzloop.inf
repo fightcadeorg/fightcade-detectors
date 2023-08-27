@@ -1,3 +1,5 @@
-start=Start,raw,eq,0x0608fefb,247,8
+start=Start_A,raw,eq,0x0608fefb,248,8
+start=Start_B,raw,eq,0x0608fefb,247,8
+start=Start_C,raw,eq,0x0608fefb,246,8
 player1=P1 Win,raw,eq,0x0609b24b,2,8
 player2=P2 Win,raw,eq,0x0609b2ff,2,8
